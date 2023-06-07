@@ -57,7 +57,7 @@ static bool lookup (const string& state_name,
   // obsolete.
 
   STATE_STUB(TrenchLength, 10)
-  else STATE_STUB(TrenchGroundPosition, -0.155)
+  else STATE_STUB(TrenchGroundPosition, -0.172)
   else STATE_STUB(TrenchWidth, 10)
   else STATE_STUB(TrenchDepth, 2)
   else STATE_STUB(TrenchPitch, 0)
